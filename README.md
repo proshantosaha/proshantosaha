@@ -1,6 +1,5 @@
 ### Hi there 👋,  I'm Proshanto Saha
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh]
 
 I am a front-end web developer with several years of experience. 
 
